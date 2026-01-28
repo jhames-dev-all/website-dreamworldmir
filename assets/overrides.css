@@ -1,0 +1,8 @@
+.bg-banner-one{background-image:url(/assets/bg.jpg), url(/bg.jpg) !important}
+.bg-banner-two{background-image:url(/assets/bg2.jpg), url(/bg2.jpg) !important}
+.bg-cashtime{background-image:url(/assets/bg-cash.jpg), url(/bg-cash.jpg) !important}
+.bg-fixed{background-image:url(/assets/bgfixed.jpg), url(/bgfixed.jpg) !important}
+.bg-recarga{background-image:url(/assets/bg_container.jpg), url(/bg_container.jpg) !important}
+@media (min-width: 640px){
+  .sm\:bg-fixed{background-image:url(/assets/bgfixed.jpg), url(/bgfixed.jpg) !important}
+}
