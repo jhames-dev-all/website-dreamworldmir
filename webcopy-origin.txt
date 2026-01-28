@@ -1,0 +1,120 @@
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://mir4dreamscape.com.br/
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\index.htm
+Content Type: text/html
+
+Uri: https://mir4dreamscape.com.br/assets/index-19bcd222.js
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\assets\index-19bcd222.js
+Content Type: application/javascript
+
+Uri: https://mir4dreamscape.com.br/assets/index-78ba5a83.css
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\assets\index-78ba5a83.css
+Content Type: text/css
+
+Uri: https://mir4dreamscape.com.br/bg-cash.jpg
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\bg-cash.jpg
+Content Type: image/jpeg
+
+Uri: https://mir4dreamscape.com.br/bg.jpg
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://mir4dreamscape.com.br/bg2.jpg
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\bg2.jpg
+Content Type: image/jpeg
+
+Uri: https://mir4dreamscape.com.br/bgfixed.jpg
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\bgfixed.jpg
+Content Type: image/jpeg
+
+Uri: https://mir4dreamscape.com.br/bg_container.jpg
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\bg_container.jpg
+Content Type: image/jpeg
+
+Uri: https://mir4dreamscape.com.br/favicon.png
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\favicon.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-16685530477
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtm.js?id=GTM-T7Q9RHPH
+File Name: C:\Downloaded Web Sites\mir4dreamscape.com.br\gtm.js
+Content Type: application/javascript
+
